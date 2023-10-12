@@ -1,0 +1,4 @@
+# .gitignre 파일은 github에 고정적으로 업데이트를 하고싶지 않은  파일 목록
+
+# 아래 문구는 gitignore test 폴더를 git에서 무시
+/gitignore test 
